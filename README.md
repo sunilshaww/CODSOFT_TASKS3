@@ -4,6 +4,22 @@ A responsive, high-performance editorial blog web application built with vanilla
 
 ---
 
+## 📸 Visual Previews
+
+| Homepage & Featured Stories | Editorial Article Detail & TOC |
+|:---:|:---:|
+| ![Homepage Preview](screenshots/homepage.png) | ![Article Detail Preview](screenshots/article_detail.png) |
+
+| Sleek Dark Mode Theme | Interactive Search Modal (⌘K) |
+|:---:|:---:|
+| ![Dark Theme Preview](screenshots/dark_mode.png) | ![Search Modal Preview](screenshots/search_modal.png) |
+
+| Category & Tag Filtering | Sticky Reading Progress & TOC |
+|:---:|:---:|
+| ![Category Filtering Preview](screenshots/category_and_tags_filter.png) | ![TOC and Progress Preview](screenshots/toc_and_reading_progress.png) |
+
+---
+
 ## ✨ Key Features
 
 ### 1. Attractive Editorial Homepage
